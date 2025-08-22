@@ -3,3 +3,4 @@ datavenv
 .env
 catboost_info
 .vscode
+/artifacts
