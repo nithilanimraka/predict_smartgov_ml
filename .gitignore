@@ -4,3 +4,5 @@ datavenv
 catboost_info
 .vscode
 /artifacts
+best_catboost_model.pkl
+best_catboost_params.pkl
